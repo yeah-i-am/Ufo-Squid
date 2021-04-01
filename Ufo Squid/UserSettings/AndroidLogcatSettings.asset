@@ -1,13 +1,62 @@
 {
-    "m_SelectedDeviceId": "",
+    "m_SelectedDeviceId": "926af533",
     "m_SelectedPackage": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+        "deviceId": "926af533",
+        "name": "com.DefaultCompany.com.unity.template.mobile2D",
+        "processId": 19753,
         "exited": false
     },
     "m_SelectedPriority": 0,
-    "m_KnownPackagesForSerialization": [],
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "926af533",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 6710,
+            "exited": true
+        },
+        {
+            "deviceId": "926af533",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 14929,
+            "exited": true
+        },
+        {
+            "deviceId": "926af533",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 15652,
+            "exited": true
+        },
+        {
+            "deviceId": "926af533",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 16269,
+            "exited": true
+        },
+        {
+            "deviceId": "926af533",
+            "name": "net.oneplus.launcher",
+            "processId": 21339,
+            "exited": false
+        },
+        {
+            "deviceId": "926af533",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17611,
+            "exited": false
+        },
+        {
+            "deviceId": "926af533",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18104,
+            "exited": false
+        },
+        {
+            "deviceId": "926af533",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19753,
+            "exited": false
+        }
+    ],
     "m_Tags": {
         "m_Entries": [
             {
@@ -41,9 +90,20 @@
         ]
     },
     "m_MemoryViewerState": {
-        "MemoryWindowHeight": 0.0,
-        "MemoryWindowWidth": 0.0,
-        "MemoryTypeEnabled": [],
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
         "MemoryGroup": 2,
         "Behavior": 0
     },
