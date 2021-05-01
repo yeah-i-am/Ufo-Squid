@@ -5,6 +5,7 @@ using UnityEngine;
 public class BackgroundParticlesController : MonoBehaviour
 {
     public ParticleSystem[] backgroundParticles;
+    public bool isUnity;
 
     private ParticleSystem.Particle[] particles = new ParticleSystem.Particle[500];
 
@@ -19,8 +20,8 @@ public class BackgroundParticlesController : MonoBehaviour
             shape.scale = new Vector3(scale, 11f, 1f);
 
             /* Changing particles size */
-            var main = ps.main;
-            main.startSize = 300f / Screen.dpi;
+            /*var main = ps.main;
+            main.startSize = (isUnity ? 50f : 300f) / Screen.dpi; */
 
             ps.Emit(500);
             ps.GetParticles(particles);
