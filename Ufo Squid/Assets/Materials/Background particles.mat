@@ -52,6 +52,6 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
-    - _MainColor: {r: 33.89676, g: 33.89676, b: 33.89676, a: 0}
+    - _MainColor: {r: 27.857622, g: 27.857622, b: 27.857622, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

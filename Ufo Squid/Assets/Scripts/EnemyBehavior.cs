@@ -10,7 +10,7 @@ public class EnemyBehavior : MonoBehaviour
 
     void Start()
     {
-        gameController = GameObject.Find("GameController").GetComponent<GameController>();
+        gameController = FindObjectOfType<GameController>();
     }
 
     void Update()

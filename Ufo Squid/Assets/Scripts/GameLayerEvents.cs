@@ -10,8 +10,13 @@ public class GameLayerEvents : MonoBehaviour
         gameController.StartGame();
     }
 
+    void AfterDeath()
+    {
+        gameController.AfterDeath();
+    }
+
     void Start()
     {
-        gameController = GameObject.Find("GameController").GetComponent<GameController>();
+        gameController = FindObjectOfType<GameController>();
     }
 }
