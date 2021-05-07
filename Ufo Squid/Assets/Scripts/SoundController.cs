@@ -106,8 +106,6 @@ public class SoundController : MonoBehaviour
     {
         yield return new WaitUntil(() => !fading);
 
-        Debug.Log(fading);
-
         StartCoroutine("FadeBetwenMusic", param);
     }
 

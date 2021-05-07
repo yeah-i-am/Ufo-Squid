@@ -15501,9 +15501,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   difficultyScale: 1
   patternBoost: 0
-  selectedSkin: {r: 0.89986145, g: 1, b: 0, a: 0.39215687}
-  openedSkin: {r: 0.08116722, g: 1, b: 0, a: 0.3137255}
-  closedSkin: {r: 0, g: 0.32023597, b: 1, a: 0.3137255}
+  selectedSkin: {r: 0, g: 1, b: 0.08247161, a: 0.39215687}
+  openedSkin: {r: 0, g: 0.19270587, b: 1, a: 0.3137255}
+  closedSkin: {r: 1, g: 0, b: 0.04480028, a: 0.3137255}
   shop: {fileID: 752005324}
   money: 0
 --- !u!224 &1560000484 stripped
